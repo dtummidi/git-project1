@@ -1,2 +1,2 @@
 # git-project1
-my first project
+This is my first project for learning purpose.
